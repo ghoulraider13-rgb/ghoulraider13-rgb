@@ -18,7 +18,7 @@ B.Tech CSE (AI-Driven DevOps) @ Jain University, Bengaluru
 - 🚁 **Disaster-response drones** — fine-tune compact YOLOv11n models that run onboard UAVs for flood, landslide, and earthquake damage detection; export them for Jetson-class edge hardware
 - 🧠 **AI-powered web apps** — React front-ends wired to Gemini for natural-language features (task parsing, smart scheduling)
 - ⚙️ **ML pipelines & DevOps** — reproducible training pipelines, GitHub Actions CI, package design
-- 🏆 **Smart India Hackathon 2026** finalist team (Team Sahayak · ISRO problem statement PS-ID 26171) — building agent-coordinated disaster infrastructure
+- 🏆 **Smart India Hackathon 2026** team (Team Sahayak · ISRO problem statement PS-ID 26171) — building agent-coordinated disaster infrastructure
 
 ## 🔥 Featured Projects
 
