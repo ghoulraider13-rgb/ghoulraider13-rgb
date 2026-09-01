@@ -25,7 +25,7 @@ B.Tech CSE (AI-Driven DevOps) @ Jain University, Bengaluru
 | Project | What it does | Stack |
 |---|---|---|
 | 🚁 [**Disaster_DetectionDrone**](https://github.com/ghoulraider13-rgb/Disaster_DetectionDrone) | YOLOv11n aerial disaster detection (flood / landslide / earthquake) with pinned Roboflow datasets, edge exports (ONNX/TensorRT/OpenVINO), CLI pipeline, CI | Python · Ultralytics · Roboflow · GH Actions |
-| ✅ [**FloTask**](https://github.com/ghoulraider13-rgb/FloTask) · [live](https://flo-task.vercel.app/) | AI-powered productivity app: Gemini parses plain-language into scheduled tasks; alarms with enforcer mode, timer hub, scratchpad | React · Gemini API · Tailwind · Vite |
+| ✅ [**FloTask**](https://github.com/ghoulraider13-rgb/FloTask) · [live](https://flotask-xi.vercel.app/) | AI-powered productivity app: Gemini Flash parses plain-language into scheduled tasks; alarms with enforcer mode, timer hub, scratchpad draw tool | React · Gemini Flash API · Tailwind · Vite |
 | 🌐 [**Portfolio**](https://github.com/ghoulraider13-rgb/Portfolio) · [live](https://portfolio-zeta-hazel-yytj5qnx79.vercel.app/) | This-site-you're-reading's fancier sibling: tech-noir glassmorphism, interactive neural-network canvas, custom cursor | React 19 · Tailwind 4 · framer-motion |
 | 🧬 [**evolutionary_feature_selection**](https://github.com/ghoulraider13-rgb/evolutionary_feature_selection) | Genetic algorithm that cuts features by 50% while *raising* accuracy 97% → 99% on sklearn classifiers | Python · scikit-learn · NumPy |
 
